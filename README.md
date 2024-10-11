@@ -39,7 +39,7 @@ O sistema utiliza uma paleta de cores suave e botões estilizados, proporcionand
 
 ## 📸 Screenshots
 
-![Tela do Sistema de Alunos](screenshot.png)
+![Tela do Sistema de Alunos](sistema-aluno.png)
 
 ## 🤝 Contribuição
 
